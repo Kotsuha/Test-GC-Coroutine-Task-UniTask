@@ -4,5 +4,6 @@
 /obj
 /Temp
 /UserSettings
+/Videos/*.mkv
 /*.csproj
 /*.sln
